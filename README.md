@@ -12,4 +12,3 @@ since then i study online too and make some SQL Querys and Python Codes.
  - 📖 I'm in 2nd semester of *analysis and systems development* on **Faculdade Anhaguera** 
  - 🖖 I'm studying Python and programming logic on Udemy and with some Free Courses
  - 📚 I'm currently learning Oracle and PL/SQL database on Udemy
- 

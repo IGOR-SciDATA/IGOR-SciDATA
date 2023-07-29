@@ -7,7 +7,7 @@ With my 19 years old i started studiyng analysis and systems development on Facu
 since then i study online too and make some SQL Querys and Python Codes.
 
 ## ⚡ Technologies & Skills
- - Back-end development using *SQL*,**Python**,**MySQL**,**Django**
+ - Back-end development using **Python**,**MySQL**,**Django**
  - I also have knowledge with spreadsheets and dashboards on Excel and some skils with PowerBI
  - 📖 I'm in 3nd semester of *analysis and systems development* on **Faculdade Anhanguera** 
  - 🖖 I'm studying Python and programming logic on Udemy and with some Free Courses

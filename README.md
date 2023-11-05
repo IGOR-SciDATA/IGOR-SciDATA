@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Igor , a Python Developer!
+### Hi there 👋 I'm Igor , a Full-stack Developer!
 
 ## 💡 About  
 I started on tech, with 10 years old just grapping the some junk projects of C# on Visual Studio and putting to debug!

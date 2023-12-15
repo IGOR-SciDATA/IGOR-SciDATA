@@ -1,14 +1,15 @@
-### Hi there 👋 I'm Igor , a Full-stack Developer!
+### Olá 👋 Sou o Igor, Desenvolvedor Full-stack!
 
-## 💡 About  
-I started on tech, with 10 years old just grapping the some junk projects of C# on Visual Studio and putting to debug!
+## 💡 Sobre
+Comecei na área de tecnologia, com 12 anos apenas pegando alguns projetos com Visual Basic e colocando para depurar!
 
-With my 19 years old i started studiyng analysis and systems development on Faculdade Anhaguera, 
-since then i study online too and make some SQL Querys and Python Codes.
+Aos 19 anos comecei a estudar Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera,
+desde então estudei online também e fiz alguns projetos utilizando SQL,Python,HTML,CSS e javaScript.
 
-## ⚡ Technologies & Skills
- - Back-end development using **Python**,**MySQL**,**Django**
- - I also have knowledge with spreadsheets and dashboards on Excel and some skils with PowerBI
- - 📖 I'm in 3nd semester of *analysis and systems development* on **Faculdade Anhanguera** 
- - 🖖 I'm studying Python and programming logic on Udemy and with some Free Courses
- - 📚 I'm currently learning Oracle and PL/SQL database on Udemy
+## ⚡ Tecnologias e habilidades
+ - Desenvolvimento back-end usando **Python**,**Django**
+ - Infraestrutura com **AWS**,**MySQL**
+ - Consumo de API'S com **REST**
+ - Também tenho conhecimento com planilhas em Excel e dashboards com PowerBI
+ - 📖 Estou no 4º semestre de *análise e desenvolvimento de sistemas* na **Faculdade Anhanguera**
+ - 📚 Atualmente estou focado em Desenvolvimento WEB

@@ -13,6 +13,6 @@ desde então venho construindo projetos utilizando SQL,Python,HTML,CSS e javaScr
  - Consumo de API'S com **REST**
  - Arquitetura de Sistemas em **Monolito**,**Micro-serviços**
  - Também tenho conhecimento com planilhas em Excel e dashboards com PowerBI
- - 📖 Estou no 4º semestre de *análise e desenvolvimento de sistemas* na **Faculdade Anhanguera**
+ - 📖 Estou no 5º semestre de *análise e desenvolvimento de sistemas* na **Faculdade Anhanguera**
  - 💼 Atualmente estou trabalhando em projetos Full-Stack (Dados/Back-End/Front-End)
  - 📚 Venho aprimorando meus conhecimentos em ETL e Pipelines utilizando **Apache Airflow**
